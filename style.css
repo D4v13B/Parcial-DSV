@@ -123,6 +123,27 @@ body {
    cursor: pointer;
 }
 
+.about-me h3 {
+   text-align: center;
+   font-size: 40px;
+   color: #333;
+   margin: 10px 0;
+}
+
+.about-me img {
+   width: 250px;
+}
+
+.about-me p {
+   padding: 0 100px;
+}
+
+.about-me-frame{
+   display: flex;
+   align-items: center;
+   padding: 0px 100px;
+}
+
 .features {
    display: flex;
    justify-content: space-around;
